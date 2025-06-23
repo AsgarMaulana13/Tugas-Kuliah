@@ -36,7 +36,7 @@ flowchart TD
 | L2   | Start → Submit → Validasi Gagal → Kembali ke Form                 | Email/password tidak diisi atau invalid |
 | L3   | Start → Submit → Validasi OK → Kredensial Gagal → Kembali ke Form | Email/password salah                    |
 
-# C Cekou 
+# C Cekout
 flowchart TD
     A[Start] --> B[Cek Trif Valid]
     B --> C{Validasi Input?}

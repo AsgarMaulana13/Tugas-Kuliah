@@ -1,4 +1,4 @@
-# A Regiseter
+# A Register
 flowchart TD
     A[Start] --> B[Form Submitted]
     B --> C{Validasi Input?}
